@@ -6,7 +6,7 @@
 name: Farzaneh Rezaei
 
 # Short bio or description (displayed in the header)
-description: Master's Student
+description: MSc, Computer Vision Researcher
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/13063395?v=3&s=460
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: frezaeix/frezaeix.github.io
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/farzanehrezaeianaran/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
