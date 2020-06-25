@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-MSc, Computer Vision Researcher
+Computer Vision Researcher
 
 ### Contact me
 
